@@ -1,0 +1,17 @@
+[project]
+name = "bandup-proctor"
+version = "1.0.0"
+description = "A Switch agent-protocol client that times IELTS practice tasks and hands answers to the markers."
+requires-python = ">=3.10"
+dependencies = []
+license = { text = "MIT" }
+
+[project.scripts]
+bandup-proctor = "bandup_proctor.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.package-data]
+bandup_proctor = ["prompts.json"]

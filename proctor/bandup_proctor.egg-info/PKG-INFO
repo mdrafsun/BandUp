@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: bandup-proctor
+Version: 1.0.0
+Summary: A Switch agent-protocol client that times IELTS practice tasks and hands answers to the markers.
+License: MIT
+Requires-Python: >=3.10

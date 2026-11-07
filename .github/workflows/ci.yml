@@ -1,0 +1,24 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  proctor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Proctor tests (engine + fake Switch bridge over HTTP/SSE)
+        working-directory: proctor
+        run: python -m unittest discover -s tests -t . -v
+  templates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Fetch Switch core (for its template linter)
+        run: git clone --depth 1 https://github.com/sandbox-quantum/switch /tmp/switch
+      - name: Install the linter's dependencies
+        run: pip install pyyaml pydantic sqlalchemy greenlet cryptography pydantic-settings httpx markdown
+      - name: Lint and render the templates with Switch's own code
+        run: python scripts/validate_templates.py /tmp/switch/core templates/*.template.yaml

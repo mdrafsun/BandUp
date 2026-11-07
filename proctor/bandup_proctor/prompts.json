@@ -1,0 +1,38 @@
+{
+  "_note": "Original practice prompts written for BandUp in the style of IELTS tasks. Not official IELTS material.",
+  "W2": [
+    {"id": "W2-01", "text": "Some people think cities should ban private cars from their centres entirely. To what extent do you agree or disagree?"},
+    {"id": "W2-02", "text": "More and more students take online degrees instead of attending a university in person. Do the advantages of this outweigh the disadvantages?"},
+    {"id": "W2-03", "text": "Many young people now work for themselves as freelancers rather than for a company. Why is this happening, and is it a positive or negative development?"},
+    {"id": "W2-04", "text": "Some argue that governments should spend money on public transport rather than on building new roads. Discuss both views and give your own opinion."},
+    {"id": "W2-05", "text": "In many countries, people are living longer but retiring at the same age. What problems does this cause, and what can be done about them?"},
+    {"id": "W2-06", "text": "Social media companies should be responsible for the false information that appears on their platforms. To what extent do you agree or disagree?"},
+    {"id": "W2-07", "text": "Some people believe children should learn to manage money at school, while others think this is the job of parents. Discuss both views and give your own opinion."},
+    {"id": "W2-08", "text": "Tourism brings money to developing countries, but it can also damage local culture and the environment. Do the benefits outweigh the drawbacks?"},
+    {"id": "W2-09", "text": "Artificial intelligence will soon do many jobs that people do today. What effects will this have on society, and how should individuals prepare?"},
+    {"id": "W2-10", "text": "Some people think that the best way to reduce crime is to give longer prison sentences. Others believe there are better ways. Discuss both views and give your opinion."},
+    {"id": "W2-11", "text": "Fewer people read books for pleasure than in the past. Why is this, and does it matter?"},
+    {"id": "W2-12", "text": "Countries should produce all the food they need rather than importing it. To what extent do you agree or disagree?"}
+  ],
+  "W1A": [
+    {"id": "W1A-01", "text": "The table shows the percentage of households in one city that used each way to get to work in 2005 and 2025. Car: 58% then 41%. Bus: 22% then 19%. Bicycle: 6% then 17%. Walking: 9% then 11%. Metro: 5% then 12%. Summarise the information by selecting and reporting the main features, and make comparisons where relevant."},
+    {"id": "W1A-02", "text": "The line graph shows average monthly rainfall (mm) in two cities, Port Avel and Dunmore, across one year. Port Avel: Jan 20, Mar 35, May 180, Jul 320, Sep 210, Nov 40. Dunmore: Jan 90, Mar 75, May 60, Jul 45, Sep 70, Nov 100. Summarise the information by selecting and reporting the main features, and make comparisons where relevant."},
+    {"id": "W1A-03", "text": "The process: how recycled glass bottles become new bottles. 1 collection from homes, 2 sorting by colour at a depot, 3 washing, 4 crushing into small pieces called cullet, 5 melting at 1,500 C with sand and soda ash, 6 moulding into bottles, 7 cooling and quality check, 8 delivery to drinks companies. Summarise the information by selecting and reporting the main features."},
+    {"id": "W1A-04", "text": "The bar chart shows how many hours per week people in four age groups spent on screens for leisure in 2015 and 2025. Age 16-24: 21 then 34. 25-39: 17 then 26. 40-59: 12 then 19. 60+: 8 then 15. Summarise the information by selecting and reporting the main features, and make comparisons where relevant."}
+  ],
+  "W1G": [
+    {"id": "W1G-01", "text": "You recently stayed at a hotel and left a valuable item in your room. Write a letter to the hotel manager. In your letter: describe the item, explain when and where you think you left it, and say what you would like the hotel to do."},
+    {"id": "W1G-02", "text": "A friend is coming to work in your city for six months. Write a letter to your friend. In your letter: suggest an area to live in, give advice about getting around, and recommend something to do at weekends."},
+    {"id": "W1G-03", "text": "Your neighbour has started building work that is causing problems for you. Write a letter to your neighbour. In your letter: describe the problems, explain how they affect you, and suggest a solution."}
+  ],
+  "S2": [
+    {"id": "S2-01", "text": "Describe a skill you learned outside school. You should say: what the skill is, who taught you or how you learned it, how long it took, and explain why this skill is useful to you."},
+    {"id": "S2-02", "text": "Describe a time you helped someone. You should say: who you helped, what the problem was, what you did, and explain how you felt afterwards."},
+    {"id": "S2-03", "text": "Describe a place in your city where people go to relax. You should say: where it is, what it looks like, what people do there, and explain why it is popular."},
+    {"id": "S2-04", "text": "Describe a piece of technology you could not live without. You should say: what it is, when you started using it, how often you use it, and explain why it matters so much to you."},
+    {"id": "S2-05", "text": "Describe a goal you have that you have not achieved yet. You should say: what the goal is, when you set it, what you are doing to reach it, and explain why it is important to you."},
+    {"id": "S2-06", "text": "Describe a memorable meal you had. You should say: where you were, who you were with, what you ate, and explain why you remember it."},
+    {"id": "S2-07", "text": "Describe a person who has influenced the way you work or study. You should say: who the person is, how you know them, what they do, and explain how they have influenced you."},
+    {"id": "S2-08", "text": "Describe a journey that took longer than expected. You should say: where you were going, how you travelled, what caused the delay, and explain how you felt about it."}
+  ]
+}

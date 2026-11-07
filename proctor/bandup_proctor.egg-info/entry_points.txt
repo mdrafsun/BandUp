@@ -1,0 +1,2 @@
+[console_scripts]
+bandup-proctor = bandup_proctor.cli:main
